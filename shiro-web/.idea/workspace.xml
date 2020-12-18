@@ -35,21 +35,6 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,6 +52,8 @@
       <workItem from="1600364084843" duration="5000" />
       <workItem from="1600364103316" duration="47000" />
       <workItem from="1600435896066" duration="1212000" />
+      <workItem from="1608291169634" duration="743000" />
+      <workItem from="1608293209811" duration="88000" />
     </task>
     <servers />
   </component>
@@ -128,17 +115,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1600364063448">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1608293266459">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1608293266459" />
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600364063448" />
     <state x="769" y="413" key="git4idea.ui.GitResetDialog" timestamp="1600363826591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="413" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600363826591" />
-    <state x="334" y="129" key="new project wizard" timestamp="1598544483817">
+    <state x="334" y="180" key="new project wizard" timestamp="1608293279726">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="334" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1598544483817" />
+    <state x="334" y="180" key="new project wizard/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1608293279726" />
   </component>
 </project>
